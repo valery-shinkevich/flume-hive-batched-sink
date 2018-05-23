@@ -15,7 +15,7 @@ There is Scala version of plugin.
 Compile the project:
 
 ```
-mvn package
+sbt package
 ```
 
 Example Configuration:
